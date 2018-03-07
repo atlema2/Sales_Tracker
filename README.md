@@ -4,7 +4,7 @@
 ## Current Vision ##
 This will be a website where users can create an account and use this as a website to track any sales or deals on a variety of items (clothes, video games, electronics, maybe even resorts or food, etc.). There is no easy way to track items across multiple sites, or compare prices. This idea will enable that, along with provide users updates via either email or phone number (or both) of prices across various platforms.  
 
-## Things to look into ##
+## General Design Goals ##
 1. Front End
   * Most likely a React.JS front end 
   * Ensure that it's Mobile Friendly
